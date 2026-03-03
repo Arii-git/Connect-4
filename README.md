@@ -49,7 +49,7 @@ Alpha-Beta produces identical moves to Minimax but explores fewer nodes, improvi
    git clone <your-repo-url>
 2. Open `index.html` in a browser.
 
-Or open the deployed github pages version: 
+Or open the deployed github pages version: https://yatharthg12.github.io/Connect4-AI/
 
 ---
 
