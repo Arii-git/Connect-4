@@ -76,4 +76,4 @@ This project demonstrates:
 
 ## Author
 
-**Yatharth Garg**
+**ARIHANT CHORDIA**
